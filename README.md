@@ -2,7 +2,8 @@
 
 Website for Randall Hon, REALTOR® with My City Real Estate LLC, Houston TX. Built with
 Next.js (App Router), Tailwind CSS v4, React Three Fiber, GSAP ScrollTrigger, and Framer
-Motion. Deployed on Vercel with auto-deploy on every push to `main`.
+Motion. Deployed on Vercel (project `site-randall-hon`, team SHAI), connected to this
+repository's `main` branch — every push auto-deploys.
 
 ## Local development
 
